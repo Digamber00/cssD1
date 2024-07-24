@@ -1,0 +1,35 @@
+<style>
+         #b{
+            color: cornflowerblue;
+            background-color: grey;
+         }
+         .resume{
+            color: black;
+            background-color: cornflowerblue;
+         }
+         h3{
+            color: aqua;
+            background-color: black;
+         }
+        .tell{
+            color: aquamarine;
+            background-color: brown;
+        }
+        span{
+           color: hotpink;
+           background-color: aliceblue;
+        }
+        #skill{
+            color: black;
+            background-color: antiquewhite;
+        }
+        #decc{
+            color: cadetblue;
+            background-color: burlywood;
+        }
+        .dec{
+            color: red;
+            background-color: aqua;
+        }
+
+    </style>
